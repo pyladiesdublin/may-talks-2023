@@ -14,6 +14,8 @@
 ###  Madhuri Sawant
 I am an Ex-Assistant Professor who worked at the University of Mumbai, India for 8 years in various modules of Databases, AI & programming. With my profound knowledge in these domains, I am open to opportunities as Data Analyst and Data Scientist across Dublin. Alternatively, open to exploring PhD and research opportunities. With my Stamp 1G, it gives me an opportunity to start quickly.
 
+* https://www.linkedin.com/in/s-madhuri
+
 ## Talk 2 - Ontology modeling using owlready!
 (20 min) The concept of ontology comes from the philosophy and works of Plato. In computer science, an ontology is “a formal description of all the entities of a domain and the relations existing between these entities”. This definition may seem complicated! It is in fact to describe knowledge in such way that it can be exploited by a machine, and with a concern for completeness and “universality”. Ontologies are part of the so-called “symbolic” artificial intelligence, which consists of structuring knowledge to make it accessible to a computer, as opposed to machine learning (such as neural networks, deep learning, etc.).
 
@@ -21,6 +23,8 @@ I am an Ex-Assistant Professor who worked at the University of Mumbai, India for
 
 ### About Aparna Nayak
 I am currently doing PhD from Technological University Dublin in knowledge graphs, machine learning. I have over 7 years of teaching experience for undergraduate students in India.
+
+* https://www.linkedin.com/in/aparnanayakn
 
 ---
 
