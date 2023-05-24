@@ -11,6 +11,8 @@
 ## Talk 1 - Python with pandas by Madhuri Sawant
 (30 min) I would like to demonstrate how data cleaning and data analysis can be done using pandas.
 
+* Slides, Notebook and dataset: https://github.com/Madhuri301991/PyLadies_Dublin
+
 ###  Madhuri Sawant
 I am an Ex-Assistant Professor who worked at the University of Mumbai, India for 8 years in various modules of Databases, AI & programming. With my profound knowledge in these domains, I am open to opportunities as Data Analyst and Data Scientist across Dublin. Alternatively, open to exploring PhD and research opportunities. With my Stamp 1G, it gives me an opportunity to start quickly.
 
